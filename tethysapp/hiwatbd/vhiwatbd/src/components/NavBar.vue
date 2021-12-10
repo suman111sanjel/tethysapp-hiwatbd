@@ -2,7 +2,7 @@
   <nav class="navbar navbar-light template-nabar full-height">
     <a class="navbar-brand" href="">High Impact Extreme Weather Tool - Bangladesh</a>
     <div class="nav-logo-image">
-<!--      <img class="logo-image-style" src="@/assets/logo-icimod.png" alt="">-->
+      <img class="logo-image-style" src="@/assets/bangladeshbmd.jpg" alt="" style="height: 57px;padding-top: 0px;margin-top: -7px;">
     </div>
   </nav>
 </template>
