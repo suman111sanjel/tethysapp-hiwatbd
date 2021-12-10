@@ -1,24 +1,7 @@
 import datetime
-from collections import defaultdict,OrderedDict
-import json
-import operator
-import os, tempfile, shutil,functools
 import requests
-import csv
-import json
-import calendar
-import time
-import netCDF4
-from netCDF4 import Dataset
 from .config import *
-import numpy as np
-import shapely.geometry
-import webcolors
-import pickle
 import xml.etree.ElementTree as ET
-import math
-import rasterio as rio
-import rasterstats as rstats
 
 
 def get_thredds_info():
