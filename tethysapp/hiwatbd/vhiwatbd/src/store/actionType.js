@@ -17,5 +17,5 @@ export let Action = {
     ForecastChartAPI: 'apps/regionaldrought/ajax/getspatialaverage/',
     CurrentChartAPI: 'apps/regionaldrought/ajax/getspatialaveragecurrent/',
     getCSRFToken: 'regionaldrought/getCSRFToken',
-    LatestHIWATInfo:'apps/hiwatnp/getLatestHIWATInfo/',
+    LatestHIWATInfo:'apps/hiwatbd/getLatestHIWATInfo/',
 };
