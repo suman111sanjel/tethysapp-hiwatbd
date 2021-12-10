@@ -1,0 +1,15 @@
+*.pydevproject
+*.project
+*.egg-info
+*.class
+*.pyo
+*.pyc
+*.db
+*.sqlite
+*.DS_Store
+.idea/
+tethysapp/hiwatbd/vhiwatbd/node_modules/
+build/
+dist/
+tethysapp/hiwatbd/workspaces/app_workspace/MapImage/
+tethysapp/hiwatbd/__pycache__/
