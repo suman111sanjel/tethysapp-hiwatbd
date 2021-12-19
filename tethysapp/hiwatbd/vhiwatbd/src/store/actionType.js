@@ -5,7 +5,9 @@ let BaseUrl = null;
 if (process.env.NODE_ENV === "production") {
         // BaseUrl = "http://localhost:8000";
     // BaseUrl = 'http://tethys.icimod.org';
-    BaseUrl = 'http://172.16.2.170';
+    // BaseUrl = 'http://172.16.2.170';
+    // BaseUrl = 'http://172.16.2.170';
+    BaseUrl = 'http://180.211.163.139';
 } else {
     BaseUrl = "http://localhost:8000";
 }

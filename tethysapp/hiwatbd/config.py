@@ -12,7 +12,7 @@ geoserver = {'rest_url':'http://127.0.0.1:8181/geoserver/rest',
 
 
 # THREDDS_catalog = 'http://tethys.icimod.org:8080/thredds/catalog/HIWAT/'
-THREDDS_catalog = 'http://172.16.2.170:8080/thredds/catalog/HIWAT/'
+THREDDS_catalog = 'http://180.211.163.139:8080/thredds/catalog/HIWAT/'
 
 # THREDDS_wms = 'https://tethys.servirglobal.net/thredds/wms/'
 # THREDDS_wms = 'http://tethys.icimod.org:7000/thredds/wms/'
@@ -20,7 +20,7 @@ THREDDS_catalog = 'http://172.16.2.170:8080/thredds/catalog/HIWAT/'
 
 
 # THREDDS_wms = 'http://tethys.icimod.org:8080/thredds/wms/'
-THREDDS_wms = 'http://172.16.2.170:8080/thredds/wms/'
+THREDDS_wms = 'http://180.211.163.139:8080/thredds/wms/'
 
 # HIWAT_storage = '/home/tethys/hiwat_storage/'
 # HIWAT_storage = '/home/kshakya/zData/hiwat/'
